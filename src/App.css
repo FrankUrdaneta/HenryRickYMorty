@@ -1,0 +1,19 @@
+.App {
+   text-align: center;
+   background-color: rgb(27, 25, 25);
+   color: white;
+   
+}
+.container{
+   display: flex;
+   justify-content: center;
+   align-items: center!important;
+   border-radius: 10px;
+   padding-left: 0px;
+   
+}
+
+.col{
+   border-radius: 10px;
+   
+}
